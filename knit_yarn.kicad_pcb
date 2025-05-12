@@ -6851,15 +6851,6 @@
 		(net 2)
 		(uuid "5c4e300d-72d4-49b0-8abd-09b352c44faf")
 	)
-	(via
-		(at 95.75 91.75)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(free yes)
-		(net 2)
-		(uuid "a8f58989-1cd7-4503-998b-341ccc0d5ce2")
-	)
 	(segment
 		(start 92.5 80.5)
 		(end 94.25 80.5)
