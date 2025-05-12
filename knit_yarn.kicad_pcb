@@ -6602,6 +6602,42 @@
 		(layer "Edge.Cuts")
 		(uuid "3c8af051-aafc-42d2-a8bb-2172c233995b")
 	)
+	(gr_text "@borisnotes"
+		(at 104 80.985 0)
+		(layer "B.SilkS")
+		(uuid "3286edd7-94ca-4d6d-aee5-4d03b908e56e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "Stockholm, SWE"
+		(at 87 85.75 90)
+		(layer "B.SilkS")
+		(uuid "3cdf677d-c857-4c6c-8451-992170b85010")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "2025/05/12"
+		(at 112.5 88.75 315)
+		(layer "B.SilkS")
+		(uuid "511e9743-b405-4790-8a2a-714f029c8b54")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(segment
 		(start 114.403484 96.16382)
 		(end 114.450113 96.065533)
@@ -8208,7 +8244,6 @@
 		)
 		(filled_polygon
 			(layer "B.Cu")
-			(island)
 			(pts
 				(xy 93.01158 74.760822) (xy 93.050276 74.818997) (xy 93.052107 74.886102) (xy 93.009904 75.053588)
 				(xy 92.9995 75.185777) (xy 92.9995 78.814208) (xy 92.999501 78.814223) (xy 93.009904 78.946413)
@@ -8365,7 +8400,6 @@
 		)
 		(filled_polygon
 			(layer "B.Cu")
-			(island)
 			(pts
 				(xy 105.948167 74.384) (xy 106.019409 74.412678) (xy 106.042732 74.422067) (xy 106.048968 74.424577)
 				(xy 106.050548 74.425226) (xy 106.286263 74.52406) (xy 106.287719 74.524682) (xy 106.512043 74.6223)
