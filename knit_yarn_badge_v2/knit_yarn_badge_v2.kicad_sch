@@ -2480,7 +2480,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Battery:BatteryHolder_Multicomp_BC-2001_1x2032"
+		(property "Footprint" "Battery:BatteryHolder_Keystone_3002_1x2032"
 			(at 116.84 98.806 90)
 			(effects
 				(font
