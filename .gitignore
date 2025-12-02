@@ -68,5 +68,5 @@ Temporary Items
 .apdisk
 
 # Project specific
-knit_yarn-backups/
+*-backups/
 *.lck
