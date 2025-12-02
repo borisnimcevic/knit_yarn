@@ -69,3 +69,4 @@ Temporary Items
 
 # Project specific
 knit_yarn-backups/
+*.lck
