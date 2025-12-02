@@ -440,6 +440,7 @@
       "single_global_label": "ignore",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
@@ -450,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "knit_yarn.kicad_pro",
+    "filename": "knit_yarn_badge_v2.kicad_pro",
     "version": 3
   },
   "net_settings": {
