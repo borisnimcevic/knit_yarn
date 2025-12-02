@@ -3189,7 +3189,7 @@
 			(uuid "fceb30a2-e5c9-4157-8cbb-bb458571476f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_3002_1x2032.step"
+		(model "${KICAD9_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_3034_1x20mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3197,7 +3197,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -180)
 			)
 		)
 	)
