@@ -3153,7 +3153,7 @@
 			(net 7 "Net-(BT1-+)")
 			(pinfunction "+")
 			(pintype "passive")
-			(uuid "b2a6e02d-f114-4f26-ab34-ab9aa7c09d4d")
+			(uuid "6a318e73-38d1-4f56-a56f-8b0ce421efa1")
 		)
 		(pad "2" smd circle
 			(at 0 0)
