@@ -70,3 +70,31 @@ Temporary Items
 # Project specific
 *-backups/
 *.lck
+
+# SVG source files live in svg_source/ — ignore copies inside version folders
+knit_yarn_badge_v1/*.svg
+knit_yarn_badge_v2/*.svg
+knit_yarn_badge_v3/*.svg
+knit_yarn_SAO/*.svg
+knit_yarn_badge_v1/logo/
+knit_yarn_badge_v2/logo/
+knit_yarn_badge_v3/logo/
+knit_yarn_SAO/logo/
+
+# Unnamed SVG exports (no extension)
+knit_yarn_badge_v1/test1
+knit_yarn_badge_v2/test1
+knit_yarn_badge_v3/test1
+knit_yarn_SAO/test1
+
+# Board outline PNG lives in images/ — ignore per-version copies
+knit_yarn_badge_v1/Edge.Cuts.png
+knit_yarn_badge_v2/Edge.Cuts.png
+knit_yarn_badge_v3/Edge.Cuts.png
+knit_yarn_SAO/Edge.Cuts.png
+
+# Gerber zips live in order/ — ignore per-version copies
+knit_yarn_badge_v1/gerber*.zip
+knit_yarn_badge_v2/gerber*.zip
+knit_yarn_badge_v3/gerber*.zip
+knit_yarn_SAO/gerber*.zip
