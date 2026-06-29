@@ -1,11 +1,11 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,9.0.6*%
-%TF.CreationDate,2025-12-04T01:13:43+01:00*%
-%TF.ProjectId,knit_yarn_badge_v2,6b6e6974-5f79-4617-926e-5f6261646765,rev?*%
+%TF.GenerationSoftware,KiCad,Pcbnew,10.0.4*%
+%TF.CreationDate,2026-06-29T14:55:21+02:00*%
+%TF.ProjectId,knit_yarn_badge_v3,6b6e6974-5f79-4617-926e-5f6261646765,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Profile,NP*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 9.0.6) date 2025-12-04 01:13:43*
+G04 Created by KiCad (PCBNEW 10.0.4) date 2026-06-29 14:55:21*
 %MOMM*%
 %LPD*%
 G01*
