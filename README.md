@@ -12,7 +12,7 @@ Designed in KiCad. Three badge variants and one SAO variant are included.
 
 | Folder | Description |
 |--------|-------------|
-| `knit_yarn_badge_v1` | First prototype — through-hole battery holder, larger SMD components |
+| `knit_yarn_badge_v1` | First prototype — through-hole battery holder |
 | `knit_yarn_badge_v2` | SMD redesign, improved layout |
 | `knit_yarn_badge_v3` | Current version — 0805 components, no vias |
 | `knit_yarn_SAO` | Simple Add-On variant with 2×2 header |
@@ -62,4 +62,4 @@ Upload the zip directly to your PCB fab (JLCPCB, PCBWay, etc.).
 
 ## SVG Source Files
 
-The artwork SVGs used to generate the board graphics live in [`svg_source/`](./svg_source/). If you need to regenerate a footprint, use KiCad's **bitmap2component** tool with the appropriate SVG.
+The artwork SVGs used to generate the board graphics live in [`svg_source/`](./svg_source/).
